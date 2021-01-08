@@ -1,0 +1,129 @@
+body{
+    max-width:90%;
+    margin:0 auto;
+    background-image:linear-gradient(to bottom right, #FFFFFF,#FFD674); /* #E8DCBF #FCEDC9 #E4F6FE #FFFDE1*/
+
+    background-repeat:no-repeat;
+    background-size:cover;
+
+}
+
+header h1{
+    background-color:yellow;
+    text-align:center;
+    font-size:5vw;
+
+
+
+}
+
+
+
+
+h2{
+    font-family:Didot,Bookman, URW Bookman L, serif;
+}
+
+
+
+p{
+    font-family:Didot,Bookman, URW Bookman L, serif;
+    color:#555555;
+    word-spacing:0.05vw;
+
+    font-size:1.5vh;
+    font-size:1.5vw;
+}
+
+
+
+p.picture-description{
+    color:#111111;
+    font-weight:bold;
+    text-align:right;
+}
+
+blockquote {
+    width: 50%;
+    margin: 0 auto;
+    padding:80px 0px;
+}
+
+q {
+
+    font-size:160%;
+    background-color:#EEEEEE;
+    border-left:3px solid black;
+    quotes:none;
+    max-width:50%;
+    margin: 80px  auto;
+    display:block;
+    font-style:italic;
+    padding-left:30px;
+
+
+}
+q.farmer{
+    border-color:#444499;
+}
+
+q.villagers{
+    border-color:#AA5555;
+}
+
+mark{
+    background-color:transparent;
+}
+
+.good{
+    text-transform:capitalize;
+    color:green;
+}
+
+.bad{
+    text-transform:capitalize;
+    color:red;
+
+}
+
+
+tr.uneven{
+    background-color:#BBBBBB;
+}
+
+tr.even{
+    background-color:#EEEEEE;
+}
+
+
+a :hover {
+    color:#999999;
+}
+
+a:visited{
+    color:#887788;
+}
+td th{
+    font-family:Didot,Bookman, URW Bookman L, serif;
+}
+
+a {
+    color:black;
+    text-decoration:none;
+}
+
+
+
+.footer a {
+    text-decoration:underline;
+}
+.footer a:hover {
+    color:#999999;
+}
+
+
+
+.footer p {
+    font-size:1vh;
+    font-size:1vw;
+}
